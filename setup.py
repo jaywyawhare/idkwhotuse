@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='idkwhotuse',
-    version='1.0.1',
+    version='1.0.2',
     author='Arinjay',
     author_email='2005441@kiit.ac.in',
     description='''I don't know whot use of this project.''',
@@ -22,3 +22,4 @@ setup(
         'Programming Language :: Python :: 3.9',
     ],
 )
+
