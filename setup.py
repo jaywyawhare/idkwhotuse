@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='idkwhotuse',
-    version='1.0.0',
+    version='1.0.1',
     author='Arinjay',
     author_email='2005441@kiit.ac.in',
     description='''I don't know whot use of this project.''',
